@@ -1,4 +1,5 @@
 $( document ).ready(function() {
+    wtf
     console.log( "ready!!!!" );
     sadasd
     $('#userChangeSelect').on('change', function (element) {
