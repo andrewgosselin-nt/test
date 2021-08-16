@@ -1,5 +1,6 @@
 $( document ).ready(function() {
-    console.log( "ready!!!!" );
+    // wtf
+    sdfsadfsdfsdf
     $('#userChangeSelect').on('change', function (element) {
         $.ajax({
             url: "/apps/ntsso/ssobridge/changeUser/" + this.value,
